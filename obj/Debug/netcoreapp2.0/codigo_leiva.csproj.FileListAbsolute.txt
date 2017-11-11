@@ -1,0 +1,10 @@
+C:\codigo_leiva\bin\Debug\netcoreapp2.0\codigo_leiva.deps.json
+C:\codigo_leiva\bin\Debug\netcoreapp2.0\codigo_leiva.runtimeconfig.json
+C:\codigo_leiva\bin\Debug\netcoreapp2.0\codigo_leiva.runtimeconfig.dev.json
+C:\codigo_leiva\bin\Debug\netcoreapp2.0\codigo_leiva.dll
+C:\codigo_leiva\bin\Debug\netcoreapp2.0\codigo_leiva.pdb
+C:\codigo_leiva\obj\Debug\netcoreapp2.0\codigo_leiva.csproj.CoreCompileInputs.cache
+C:\codigo_leiva\obj\Debug\netcoreapp2.0\codigo_leiva.AssemblyInfoInputs.cache
+C:\codigo_leiva\obj\Debug\netcoreapp2.0\codigo_leiva.AssemblyInfo.cs
+C:\codigo_leiva\obj\Debug\netcoreapp2.0\codigo_leiva.dll
+C:\codigo_leiva\obj\Debug\netcoreapp2.0\codigo_leiva.pdb
